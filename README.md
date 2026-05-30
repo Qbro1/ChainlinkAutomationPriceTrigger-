@@ -9,5 +9,5 @@ A production-ready architecture demonstrating how to combine decentralized data 
 ### Tech Stack:
 - Solidity ^0.8.20
 - Chainlink Data Feeds (Oracles)
-- C# / .NET 8.0
+- C# / .NET 9.0
 - Nethereum Web3 Integration Framework
