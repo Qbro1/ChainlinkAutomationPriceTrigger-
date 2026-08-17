@@ -1,6 +1,6 @@
 # Chainlink Price Feed Off-Chain Automated Trigger (C# & Solidity)
 
-A production-ready architecture demonstrating how to combine decentralized data validation via Chainlink Data Feeds with an automated, ultra-fast off-chain monitoring engine written in C# using Nethereum.
+A production-ready architecture demonstrating how to combine decentralized data validation via Chainlink Data Feeds with an automated, off-chain monitoring engine written in C# using Nethereum.
 
 ### How it works:
 1. **Smart Contract (Solidity):** Integrates `AggregatorV3Interface` to securely read real-time ETH/USD oracle values in Sepolia Testnet without flash-loan or price-manipulation vulnerabilities.
